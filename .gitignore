@@ -1,0 +1,5 @@
+env
+lol_dataset
+*.zip
+*.h5
+my_model
